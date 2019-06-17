@@ -33,5 +33,5 @@
  ```
 
 ## Requirement
- To make the implementation of the interface between C++ and Python3, Boost.Python is used in this program.
+ To make the implementation of the interface between C++ and Python3 simpler, Boost.Python is used in this program.
  Therefore make sure that you have installed boost library in prior to the compilation, otherwise it will fail.
