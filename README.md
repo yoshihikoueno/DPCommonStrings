@@ -20,3 +20,7 @@
 
  Once you compile this properly, you will have a library file name "*.so".
  You can import this from Python3 just like a normal module: "import <MODULE NAME HERE>".
+
+## Requirement
+ To make the implementation of the interface between C++ and Python3, Boost.Python is used in this program.
+ Therefore make sure that you have installed boost library in prior to the compilation, otherwise it will fail.
